@@ -1,0 +1,1 @@
+export function validateVercelEnvironment(env: Record<string, string | undefined>): string[];

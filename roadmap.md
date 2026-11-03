@@ -1,0 +1,23 @@
+# Cyber Signal X
+- [x] Prepare Vercel deployment settings and document external backend credentials blocker.
+- [ ] Complete Vercel deployment: requires independently managed backend credentials and data migration; current Cloud private key is not exportable.
+- [x] Reduce replacement-upload serial waiting; browser new-upload, short/legacy links, preview and byte-identical native download verified (8,489 bytes, 1600×1200).
+- [ ] Use a clean recipient domain without lovable: alzubair.zr was requested; connection card was dismissed because custom domains require a paid plan. Ownership and reachability remain unverified.
+- [x] Finish functional review of admin, sharing and event analysis; notification overlay and event targeting verified in browser.
+- [x] Shorten copied share links and QR links; preserve existing links and verify original downloads.
+- [x] Add 4K original-file download branding.
+- [x] Save recipient name in the browser tab and unlock native one-click download without in-page progress or browser verification.
+- [x] Round controls and refine tactile 3D interactions.
+- [x] Replace sharing with original-byte downloads and verify the download flow.
+- [x] Explain browser gallery limitations without promising automatic Photos access.
+- [x] Fix upload environment access and verify sharing end-to-end.
+- [x] Add admin-only natural-language AI event analysis using AI Gateway; actual dated response verified.
+- [x] Complete admin screens, server-side event filtering and current upload-policy enforcement on finalization and replacement.
+- [x] Add download notifications linking to the specific event; honor account notification display preference.
+- [x] Verify root and legacy recipient pages, QR generation, native original downloads and immediate revocation (410).
+- [x] Verify browser upload/download with identical 8,489-byte PNG, 1600×1200 dimensions, SHA-256 4f25dc299e1347ab7121662435c033cc93b7bd07b00f8c0472a9555468ad90ea; 28 automated tests passed.
+- [x] Replace preverified original saves with direct original attachment downloads for every file size.
+- [x] Add admin direct original downloads and exact byte sizes.
+- [x] Raise application and Cloud limits to 5 GiB.
+- [x] Verify browser upload, client original save, admin download and responsive layouts (8,489-byte PNG, 1600×1200; original bytes identical; no prefetch before click).
+- [ ] Real-phone ~5 GB test: blocked by lack of physical device access.
